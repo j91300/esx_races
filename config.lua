@@ -48,10 +48,10 @@ Config.Zones = {
 
 Config.AllowCopsToCollect = true
 -- solo params
-Config.RequiredCopsSolo = 0
+Config.RequiredCopsSolo = 2
 Config.TimeToCollectSoloKey = 1 * 1000
 -- multi params
-Config.RequiredCopsMulti = 0
+Config.RequiredCopsMulti = 4
 Config.TimeToCollectMultiKey = 1 * 1000
 Config.MaxLaps = 24
 
